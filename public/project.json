@@ -1,0 +1,53 @@
+[
+    {
+      "project_name": "Project Management System",
+      "project_description": "The Project Management System (PMS) is a full-stack web application built with React.js, Node.js, Express.js, MySQL, Tailwind CSS, and Redux, designed to streamline project and team management. It allows users to create, update, and manage multiple projects, assign tasks to individuals or teams, track progress, and ensure smooth collaboration. With role-based access control using JWT authentication, real-time updates, and an intuitive dashboard, PMS enhances productivity by providing a structured and efficient approach to handling projects, teams, and tasks within an organization.",
+      "images": "/assets/PMS.PNG",
+      "stack": ["React", "MySQL", "Node js", "Express js", "Tailwind CSS"],
+      "designation": "Lead Frontend Developer",
+      "project_link": "https://technomentor.net/management/",
+      "github_link": "https://github.com/DevelonsDevelopers/ProjectManagement",
+      "completion_date": "2024-12-10"
+    },
+    {
+      "project_name": "DBS Auto Parts",
+      "project_description": "DBS Auto Parts is a full-stack web application built to streamline auto parts business operations, including purchase management, sales tracking, ledger maintenance, and invoice generation. Developed with React.js, Node.js, Express.js, MySQL, Tailwind CSS, and Redux, the system provides an intuitive interface for managing inventory, tracking financial transactions, and automating essential business processes. With role-based authentication, real-time data updates, and a responsive UI, DBS Auto Parts enhances efficiency, accuracy, and organization in handling company operations.",
+      "images": "/assets/DBSAutoParts.PNG",
+      "stack": ["React", "MySQL", "Node js", "Stripe", "Express js", "SMTP", "Tailwind CSS"],
+      "designation": "Lead Frontend Developer",
+      "project_link": "N/A",
+      "github_link": "https://github.com/DevelonsDevelopers/Autoparts-Admin",
+      "completion_date": "Currently in Development"
+    },
+    {
+      "project_name": "Said Ahmed Memorial Hospital",
+      "project_description": "Said Ahmed Memorial Hospital is a full-stack web application designed to manage the operations of a hospital, including pharmacy sales, patient records, doctor management, and customer handling. Built with React.js, Node.js, Express.js, MySQL, Tailwind CSS, and Redux, the system provides an intuitive interface for tracking medical inventory, managing appointments, handling billing, and maintaining patient history. With role-based authentication, real-time data updates, and a responsive UI, this system enhances efficiency, accuracy, and organization in hospital management.",
+      "images": "/assets/Pharmacy.PNG",
+      "stack": ["React", "MySQL", "Node js", "Express js", "Tailwind CSS"],
+      "designation": "Frontend Developer",
+      "project_link": "N/A",
+      "github_link": "https://github.com/PrgrammingSolutions/pharmacy-hospital",
+      "completion_date": "2023-07-20"
+    },
+    {
+      "project_name": "Learning Management System",
+      "project_description": "Learning Management System (LMS) is a fully responsive frontend project that I built independently using React.js and Tailwind CSS. This project helped me enhance my skills in component-based architecture, state management, and UI/UX design. The LMS features an intuitive interface for course browsing, user authentication flows, and interactive learning experiences. Through this project, I gained valuable experience in optimizing performance, handling complex UI structures, and improving overall frontend development best practices.",
+      "images": "/assets/LMS.PNG",
+      "stack": ["React", "Node.js", "Express", "MongoDB", "Tailwind CSS"],
+      "designation": "Full Stack Developer",
+      "project_link": "N/A",
+      "github_link": "N/A",
+      "completion_date": "2024-07-12"
+    },
+    {
+      "project_name": "Book Store",
+      "project_description": "Book Store is a full-stack web application that I built independently using React.js, Node.js, Express.js, and MongoDB. This project allowed me to deepen my understanding of both frontend and backend development, including RESTful APIs, database management, and state handling. The system enables users to browse, purchase, and manage books, featuring user authentication, cart functionality, and an intuitive UI built with Tailwind CSS. Through this project, I gained hands-on experience in full-stack development, improving my problem-solving skills and enhancing my ability to create scalable web applications.",
+      "images": "/assets/BookStore.PNG",
+      "stack": ["React", "Node.js", "Express", "MongoDB", "Tailwind CSS"],
+      "designation": "Full Stack Developer",
+      "project_link": "N/A",
+      "github_link": "N/A",
+      "completion_date": "2024-09-01"
+    } 
+  ]
+  
