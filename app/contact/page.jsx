@@ -121,16 +121,6 @@ const Contact = () => {
               <p>haseebmazhar35@gmail.com</p>
             </div>
           </div>
-          <div className="flex flex-row gap-3 items-start">
-            <FaLocationDot className="h-16 w-16 p-4 bg-gray-600 bg-opacity-[40%] rounded-xl text-accent" />
-            <div>
-              <h1 className="text-[20px]">Address</h1>
-              <p className="text-[14px]">
-                House no. 11-AS-79 Near Burji No. 8 Sooling Road Ghaziabad
-                Lahore Cantt
-              </p>
-            </div>
-          </div>
         </div>
       </div>
     </div>
